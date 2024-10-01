@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divya Munot</h1>
 <h3 align="center">Tech Enthusiast, Yoga Instructor, Artistic Person</h3>
 
-- 💻 Computer Science Graduate Student at the University of Rochester, graduating in May 2024
+- 💻 Assistant Professor @ Vishwakarma University, India
 
 - 💬 Ask me about **Python, SQL, Data Analysis**
 
